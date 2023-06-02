@@ -1,2 +1,2 @@
 # 64
-Saves of 64
+Saves
